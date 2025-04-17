@@ -35,7 +35,7 @@ The final trained model is saved as `best.pt`.
 ## 📁 Project Structure
 
 ```
-yolo_app/
+yolo-realtime-vision-app/
 ├── main.py                  # Main app launcher
 ├── requirements.txt         # Required Python packages
 ├── best.pt                  # Trained YOLOv11 model weights 🧠
@@ -54,8 +54,8 @@ yolo_app/
 
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/yourusername/yolo-real-time-detection
-cd yolo-real-time-detection
+git clone https://github.com/AlirezaFarazmehr/yolo-realtime-vision-app
+cd yolo-realtime-vision-app
 
 # 2️⃣ Install requirements
 pip install -r requirements.txt
