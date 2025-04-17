@@ -25,7 +25,7 @@ The detection model was trained on a **custom dataset** including classes like:
 - 📱 Mobile  
 - 🪑 Chair  
 - 🧾 Desk  
-- 🪟 Table  
+  ...  
 
 Training was done via [Roboflow](https://roboflow.com) and integrated in **Google Colab** using their API key.  
 The final trained model is saved as `best.pt`.
